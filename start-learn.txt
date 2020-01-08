@@ -3,3 +3,5 @@ my name is mohit
 i am starting to learn git and github.
 now i am doing few changes
 then i'll check the history
+now here i am going to try branching in a differrent branch
+and then try to merge it with master through a pull request.
